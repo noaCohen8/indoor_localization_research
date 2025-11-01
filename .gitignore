@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+
+.DS_Store
+*/.DS_Store
+Data/*
+indoor-location-competition-20-master/*.txt
+/*.png
+.vscode/
+lgbm_logs_1.txt
+lgbm_logs_3.txt
+lgbm_test_predictions_v3.csv
+metadata/
+sample_submission.csv
+test/
+train/
+wandb/
+df_preprocess_cleaned_5a0546857ecc773753327266_F1.csv
+df_preprocess_cleaned_5a0546857ecc773753327266_F3.csv
+indoor-location-competition-20-master/data/*
+
